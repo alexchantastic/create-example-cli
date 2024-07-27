@@ -1,0 +1,11 @@
+{
+  "name": "create-example-cli",
+  "version": "0.0.1",
+  "author": "Alex Chan",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexchantastic/create-example-cli.git"
+  },
+  "homepage": "https://github.com/alexchantastic/create-example-cli"
+}
